@@ -13,3 +13,5 @@ npm install
 ```plaintext
 npm run dev
 ```
+
+5. Open a web browser and navigate to `http://localhost:3000` to see your application running.
